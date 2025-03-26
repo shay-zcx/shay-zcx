@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a PhD student @SFU. My research interests are social robotics and reinforcement learning.
 
 <!--
 **shay-zcx/shay-zcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
